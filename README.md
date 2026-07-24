@@ -8,26 +8,17 @@ This project recommends products to users based on their previous ratings using 
 
 ## Algorithm Used
 - SVD (Singular Value Decomposition)
-- Surprise Library
 
-## Features
-- Data Cleaning
-- User-Product Rating Matrix
-- Product Recommendation
-- Model Evaluation using RMSE and MAE
-- Cross Validation
-
-## Technologies Used
+## Technologies
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
-- Surprise
+- Surprise Library
 - Google Colab
 
 ## Results
-- RMSE: 0.70 (approx.)
-- MAE: 0.53 (approx.)
+- RMSE: 0.70
+- MAE: 0.53
 
 ## Author
 Komal Ram
